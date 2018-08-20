@@ -1,0 +1,57 @@
+2018-08-14 16:27:15,669 INFO o.a.j.u.JMeterUtils: Setting Locale to zh_CN
+2018-08-14 16:27:15,700 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2018-08-14 16:27:15,707 INFO o.a.j.JMeter: Copyright (c) 1998-2017 The Apache Software Foundation
+2018-08-14 16:27:15,708 INFO o.a.j.JMeter: Version 3.2 r1790748
+2018-08-14 16:27:15,708 INFO o.a.j.JMeter: java.version=1.8.0_171
+2018-08-14 16:27:15,708 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2018-08-14 16:27:15,708 INFO o.a.j.JMeter: os.name=Windows 10
+2018-08-14 16:27:15,708 INFO o.a.j.JMeter: os.arch=amd64
+2018-08-14 16:27:15,708 INFO o.a.j.JMeter: os.version=10.0
+2018-08-14 16:27:15,708 INFO o.a.j.JMeter: file.encoding=GBK
+2018-08-14 16:27:15,709 INFO o.a.j.JMeter: Max memory     =514850816
+2018-08-14 16:27:15,709 INFO o.a.j.JMeter: Available Processors =8
+2018-08-14 16:27:15,729 INFO o.a.j.JMeter: Default Locale=中文 (中国)
+2018-08-14 16:27:15,729 INFO o.a.j.JMeter: JMeter  Locale=中文 (中国)
+2018-08-14 16:27:15,730 INFO o.a.j.JMeter: JMeterHome=E:\interfaceTest_workspace\autotest\target\jmeter
+2018-08-14 16:27:15,730 INFO o.a.j.JMeter: user.dir  =E:\interfaceTest_workspace\autotest\target\jmeter\bin
+2018-08-14 16:27:15,731 INFO o.a.j.JMeter: PWD       =E:\interfaceTest_workspace\autotest\target\jmeter\bin
+2018-08-14 16:27:15,735 INFO o.a.j.JMeter: IP: 10.64.36.183 Name: DESKTOP-QOD5CHD FullName: DESKTOP-QOD5CHD
+2018-08-14 16:27:15,741 INFO o.a.j.s.FileServer: Default base='E:\interfaceTest_workspace\autotest\target\jmeter\bin'
+2018-08-14 16:27:15,741 INFO o.a.j.s.FileServer: Set new base='E:\interfaceTest_workspace\autotest\target\jmeter\testFiles'
+2018-08-14 16:27:15,961 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2018-08-14 16:27:15,977 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2018-08-14 16:27:15,985 INFO o.a.j.s.SaveService: Using SaveService properties version 4.0
+2018-08-14 16:27:16,005 WARN o.a.j.s.SaveService: Bad _version - expected 3.2, found 4.0.
+2018-08-14 16:27:16,005 INFO o.a.j.s.SaveService: Loading file: E:\interfaceTest_workspace\autotest\target\jmeter\testFiles\大白金卡.jmx
+2018-08-14 16:27:16,102 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-08-14 16:27:16,103 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-08-14 16:27:16,103 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-08-14 16:27:16,103 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-08-14 16:27:16,103 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2018-08-14 16:27:16,103 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2018-08-14 16:27:16,720 INFO o.a.j.JMeter: Creating summariser <summary>
+2018-08-14 16:27:16,736 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2018-08-14 16:27:16,737 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-08-14 16:27:16,738 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-08-14 16:27:16,747 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2018-08-14 16:27:16,748 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2018-08-14 16:27:16,929 INFO o.a.j.JMeter: 正在运行的测试 (1534235236929)
+2018-08-14 16:27:17,015 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : 大白金卡
+2018-08-14 16:27:17,016 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group 大白金卡.
+2018-08-14 16:27:17,016 INFO o.a.j.e.StandardJMeterEngine: Thread will start next loop on error
+2018-08-14 16:27:17,016 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=0 perThread=0.0 delayedStart=false
+2018-08-14 16:27:17,030 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2018-08-14 16:27:17,030 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2018-08-14 16:27:17,094 INFO o.a.j.t.JMeterThread: Thread started: 大白金卡 1-1
+2018-08-14 16:27:17,097 INFO o.a.j.s.FileServer: Stored: E:\jmeter4\test_case\开户测试数据.csv
+2018-08-14 16:27:17,154 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = DESKTOP-QOD5CHD
+2018-08-14 16:27:17,160 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2018-08-14 16:27:17,188 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2018-08-14 16:27:17,188 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to utf-8
+2018-08-14 16:27:17,189 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2018-08-14 16:27:17,189 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2018-08-14 16:27:17,873 INFO o.a.j.t.JMeterThread: Thread is done: 大白金卡 1-1
+2018-08-14 16:27:17,874 INFO o.a.j.t.JMeterThread: Thread finished: 大白金卡 1-1
+2018-08-14 16:27:17,875 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2018-08-14 16:27:17,875 INFO o.a.j.s.FileServer: Close: E:\jmeter4\test_case\开户测试数据.csv
+2018-08-14 16:27:17,876 INFO o.a.j.r.Summariser: summary =      3 in 00:00:01 =    3.2/s Avg:   179 Min:    79 Max:   234 Err:     0 (0.00%)

@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: 王梅
+Build-Jdk: 1.8.0_171
+Class-Path: lib/servlet-api-3.0-alpha-1.jar lib/mysql-connector-java-5
+ .1.13.jar lib/log4j-1.2.14.jar
+Main-Class: theMainClass
+Created-By: Maven Integration for Eclipse
+

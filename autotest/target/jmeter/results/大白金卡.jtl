@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="234" it="0" lt="234" ct="123" ts="1534235237225" s="true" lb="查询号码普通号码" rc="200" rm="OK" tn="大白金卡 1-1" dt="text" by="789" sby="1200" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="79" it="0" lt="79" ct="39" ts="1534235237564" s="true" lb="解密报文" rc="200" rm="OK" tn="大白金卡 1-1" dt="text" by="1997" sby="671" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="225" it="0" lt="225" ct="0" ts="1534235237648" s="true" lb="号码选占" rc="200" rm="OK" tn="大白金卡 1-1" dt="text" by="694" sby="1026" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+
+</testResults>
